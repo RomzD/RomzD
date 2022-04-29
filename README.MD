@@ -24,7 +24,7 @@
 <p>General</p>
 <ul>
   <li>JavaScript - All projects i was involved in</li>
-  <li>TypeScript - BTD angular market(EPAM internal)</li>
+  <li>TypeScript - BTD angular market(EPAM internal project)</li>
   <li>HTML5 - All projects i was involved in</li>
   <li>CSS3 - All projects i was involved in</li>
   <li>Angular 13 - All projects i was involved in </li>
@@ -34,10 +34,12 @@
   <li>Jira - BTD angular market(EPAM internal) </li>
   <li>NodeJS - BTD angular market(EPAM internal): creation of JSON generator, image-parser(web-scrape), image-downloader(web-scrape) </li>
   <li>Unit testing - basic knowledge, able to write very simple like dom clicks and so on</li>
+  <li>BEM methodology(naming-only) - most of projects</li>
 </ul>
 <p>Libraries</p>
 <ul>
   <li>RxJs - observables, subjects, pipes</li>
+  <li>AngularMaterial - BTD angular market(EPAM internal) </li>
   <li>Angular Swiper - complex synchronized slider creation </li>
   <li>NGX pagination - creating of pagination component</li>
   <li>D3.js - RR3 reworked - all bar charts</li>
