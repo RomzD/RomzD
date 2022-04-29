@@ -2,7 +2,9 @@
   <img src=https://readme-typing-svg.herokuapp.com?color=%23000000&size=16&center=true&vCenter=true&height=10&width=80&duration=4000&lines=.+.+.+.>
 </h1>
 <h3 align=center> My name's Roman and i'm a web developer </h3>
-<p>Started to do some FE stuff in april 21'. Currently, most and foremost i'm coding on Angular.</p>
+<p>Started to do some FE stuff in april 21'. Currently, most and foremost i'm coding on Angular.</br>
+ email for contacts: banfollowesme@mail.ru
+</p>
 </br>
 <h3>Technologies </h3>
 <h4>key technologies, i'm focused on</h4>
@@ -40,6 +42,7 @@
   <li>NGX pagination - creating of pagination component</li>
   <li>D3.js - RR3 reworked - all bar charts</li>
   <li>fakerJS - used in creation of JSON generator</li>
+  <li>JSON-Server - EPAM courses final exam project </li>
 </ul>
 <h3>Projects</h3>
 <ol> 
