@@ -49,10 +49,10 @@
   <li>EPAM BTD Angular Market: I was one of 7 developers in scrum team</li>
   <li>RR3 Reworked: Pet project. Stack: react+redux, d3.js for bar charts. </br>
       Project born: nov 21' Frozen: end of dec' 21 </br>
-     <a href="https://github.com/RomzD/RR3-reworked-frozen-upload">RR3 reworked</a> </br>
+     <a href="https://github.com/RomzD/RR3-reworked-frozen-upload">git repo</a> </br>
      <a href="https://www.youtube.com/watch?v=j0mpNNK02V0">Youtube demo</a> <img height="15" width="15" src="https://cdn-icons-png.flaticon.com/512/711/711245.png">
   </li>
-  <li>in-game time autosliptter: splits rr3 game track times and sums up total. Written in C# and using livesplit software </br><a href="https://github.com/RomzD/road-rash-3-autosplitter">repo</a> </li>
+  <li>in-game time autosliptter: splits rr3 game track times and sums up total. Written in C# and using livesplit software </br><a href="https://github.com/RomzD/road-rash-3-autosplitter">git repo</a> </li>
   <li>RR3 original: First pet project i've made. It's a was learning project for myself and by myself.</br> 
     <a href="https://github.com/RomzD/RR3-original">git repo</a></br>
     <a href="https://www.nic.ru/whois/?searchWord=roadrash3.ru">Project has been hosted</a> in web 04.28.21 - 04.28.22' on <a href="https://www.roadrash3.ru">roadrash3.ru</a> domain. </li>
