@@ -51,7 +51,7 @@
   </li>
   <li>RR3 original: First pet project i've made. It's a was learning project for myself and by myself.</br> 
     <a href="https://github.com/RomzD/RR3-original">git repo</a></br>
-    <a href="https://www.nic.ru/whois/?searchWord=roadrash3.ru">Project has been hosted</a> in web 04.28.21 - 04.28.22' <a href="https://www.roadrash3.ru">roadrash3.ru</a>. </li>
+    <a href="https://www.nic.ru/whois/?searchWord=roadrash3.ru">Project has been hosted</a> in web 04.28.21 - 04.28.22' on <a href="https://www.roadrash3.ru">roadrash3.ru</a> domain. </li>
 </ol>
  
 
