@@ -50,7 +50,7 @@
   <li>RR3 Reworked: Pet project. Stack: react+redux, d3.js for bar charts. </br>
       Project born: nov 21' Frozen: end of dec' 21 </br>
      <a href="https://github.com/RomzD/RR3-reworked-frozen-upload">RR3 reworked</a> </br>
-     <a href="">Youtube demo</a> <img height="15" width="15" src="https://cdn-icons-png.flaticon.com/512/711/711245.png">
+     <a href="https://www.youtube.com/watch?v=j0mpNNK02V0">Youtube demo</a> <img height="15" width="15" src="https://cdn-icons-png.flaticon.com/512/711/711245.png">
   </li>
   <li>RR3 original: First pet project i've made. It's a was learning project for myself and by myself.</br> 
     <a href="https://github.com/RomzD/RR3-original">git repo</a></br>
