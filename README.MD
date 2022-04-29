@@ -44,7 +44,9 @@
 <h3>Projects</h3>
 <ol> 
   <li>EPAM BTD Angular Market: I was one of 7 developers in scrum team</li>
-  <li>RR3 Reworked: Pet project. Stack: react+redux, d3.js for bar charts. 
+  <li>RR3 Reworked: Pet project. Stack: react+redux, d3.js for bar charts. </br>
+      Project born: nov 21' Frozen: end of dec' 21 </br>
+     <a href="https://github.com/RomzD/RR3-reworked-frozen-upload/tree/master/src/pages">git repo</a> </br>
      <a href="">Youtube demo</a> <img height="15" width="15" src="https://cdn-icons-png.flaticon.com/512/711/711245.png">
   </li>
   <li>RR3 original: First pet project i've made. It's a was learning project for myself and by myself.</br> Still hosted in web up to may 5 22' 
