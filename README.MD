@@ -49,8 +49,9 @@
      <a href="https://github.com/RomzD/RR3-reworked-frozen-upload">RR3 reworked</a> </br>
      <a href="">Youtube demo</a> <img height="15" width="15" src="https://cdn-icons-png.flaticon.com/512/711/711245.png">
   </li>
-  <li>RR3 original: First pet project i've made. It's a was learning project for myself and by myself.</br> Still hosted in web up to may 5 22' 
-    <a href="https://www.roadrash3.ru">roadrash3.ru</a> </li>
+  <li>RR3 original: First pet project i've made. It's a was learning project for myself and by myself.</br> 
+    <a href="https://github.com/RomzD/RR3-original">git repo</a></br>
+    <a href="https://www.nic.ru/whois/?searchWord=roadrash3.ru">Project has been hosted</a> in web 04.28.21 - 04.28.22' <a href="https://www.roadrash3.ru">roadrash3.ru</a>. </li>
 </ol>
  
 
